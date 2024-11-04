@@ -1,0 +1,18 @@
+/* Estilos para la página de la mascota */
+.mascot-info {
+    padding: 40px;
+}
+
+.mascot-description {
+    margin-bottom: 20px;
+}
+
+h2, h3 {
+    color: #5a3d1f;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+    color: #333;
+}
